@@ -1,1 +1,1 @@
-# Responsiveportfolio
+I found this assignment to be quite challengong, but it was good to figure out some of the problems I was having for myself. I need gome help with grid layouts.
